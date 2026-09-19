@@ -3,7 +3,7 @@ about:
   photoUrl: /sima.jpeg
   photoAlt: Sima Ghaddar
   bio:
-    - "I am a political sociologist and ethnographer of humanitarianism, governance, and gender. My book project, Brokers of the Humanitarian Interface, examines the effect of the humanitarian apparatus on local governance structures at the point of encounter with communities in crisis in contemporary Lebanon. Based on eighteen months of ethnographic fieldwork in the popular quarters of Wadi Al-Nahleh- Mankoubin in Tripoli, it explores the rise of new NGOs, self-styled \"humanitarian entrepreneurs,\" and gendered aid architectures. I use the Lebanese case to investigate broader questions about how humanitarian governance is remaking local political authority and gender relations across the Global South."
+    - "I am a political sociologist and ethnographer of humanitarianism, governance, and gender. My book project, <em>Brokers of the Humanitarian Interface</em>, examines the effect of the humanitarian apparatus on local governance structures at the point of encounter with communities in crisis in contemporary Lebanon. Based on eighteen months of ethnographic fieldwork in the popular quarters of Wadi Al-Nahleh- Mankoubin in Tripoli, it explores the rise of new NGOs, self-styled \"humanitarian entrepreneurs,\" and gendered aid architectures. I use the Lebanese case to investigate broader questions about how humanitarian governance is remaking local political authority and gender relations across the Global South."
 
 experience:
   - id: century-ny
@@ -46,29 +46,29 @@ education:
 artPractice:
   - id: art-1
     title: ""
-    imageUrl: /drawings/sima001.jpg
+    imageUrl: /collages/sima001.jpg
     imageAlt: Art piece 1
   - id: art-2
     title: ""
-    imageUrl: /drawings/sima002.jpg
+    imageUrl: /collages/sima002.jpg
     imageAlt: Art piece 2
   - id: art-3
     title: ""
-    imageUrl: /drawings/sima003.jpg
+    imageUrl: /collages/sima003.jpg
     imageAlt: Art piece 3
   - id: art-4
     title: ""
-    imageUrl: /drawings/sima004.jpg
+    imageUrl: /collages/sima004.jpg
     imageAlt: Art piece 4
   - id: art-5
     title: ""
-    imageUrl: /drawings/sima005.jpg
+    imageUrl: /collages/sima005.jpg
     imageAlt: Art piece 5
   - id: art-6
     title: ""
-    imageUrl: /drawings/sima006.jpg
+    imageUrl: /collages/sima006.jpg
     imageAlt: Art piece 6
   - id: art-7
     title: ""
-    imageUrl: /drawings/sima007.jpg
+    imageUrl: /collages/sima007.jpg
     imageAlt: Art piece 7

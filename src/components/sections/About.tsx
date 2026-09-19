@@ -34,9 +34,11 @@ function About({ data }: AboutProps) {
         <h2 className="section-title">About me</h2>
         <div className="about-bio">
           {data.bio.map((paragraph, index) => (
-            <p key={index} className="about-paragraph">
-              {paragraph}
-            </p>
+            <p
+              key={index}
+              className="about-paragraph"
+              dangerouslySetInnerHTML={{ __html: paragraph }}
+            />
           ))}
         </div>
       </div>
