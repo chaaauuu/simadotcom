@@ -1,0 +1,74 @@
+about:
+  name: Sima Ghaddar
+  photoUrl: /sima.jpeg
+  photoAlt: Sima Ghaddar
+  bio:
+    - "I am a political sociologist and ethnographer of humanitarianism, governance, and gender. My book project, Brokers of the Humanitarian Interface, examines the effect of the humanitarian apparatus on local governance structures at the point of encounter with communities in crisis in contemporary Lebanon. Based on eighteen months of ethnographic fieldwork in the popular quarters of Wadi Al-Nahleh- Mankoubin in Tripoli, it explores the rise of new NGOs, self-styled \"humanitarian entrepreneurs,\" and gendered aid architectures. I use the Lebanese case to investigate broader questions about how humanitarian governance is remaking local political authority and gender relations across the Global South."
+
+experience:
+  - id: century-ny
+    company: The Century Foundation (TCF), New York
+    role: Research Fellow
+    dateRange: "2020 - Now"
+    description: Research on the political, social, and security dynamics in the Arab world and the greater Middle East.
+    link: https://tcf.org
+  - id: century-lebanon
+    company: The Century Foundation (TCF), Lebanon
+    role: Lead Policy Research Associate
+    dateRange: "2016 - 2018"
+    description: Research on policy in Syria and Lebanon.
+    link: https://tcf.org
+  - id: launchdarkly
+    company: Issam Fares Institute for Policy and International Affairs (IFI), AUB, Lebanon
+    role: Research Assistant
+    dateRange: "2014 - 2016"
+    description: Research on refugee policy in Lebanon.
+    link: https://www.aub.edu.lb/ifi/Pages/default.aspx
+
+education:
+  - id: phd
+    institution: University of California, Los Angeles (UCLA)
+    fieldOfStudy: Ph.D. in Sociology
+    dateRange: "2026"
+  - id: masters
+    institution: University of California, Los Angeles (UCLA)
+    fieldOfStudy: M.A. in Sociology
+    dateRange: "2020"
+  - id: ms
+    institution: London School of Economics and Political Science (LSE)
+    fieldOfStudy: M.Sc. in Political Sociology
+    dateRange: "2015"
+  - id: ba
+    institution: American University of Beirut (AUB)
+    fieldOfStudy: B.A. in Political Science and Public Administration with a minor in Philosophy
+    dateRange: "2013"
+
+artPractice:
+  - id: art-1
+    title: ""
+    imageUrl: /drawings/sima001.jpg
+    imageAlt: Art piece 1
+  - id: art-2
+    title: ""
+    imageUrl: /drawings/sima002.jpg
+    imageAlt: Art piece 2
+  - id: art-3
+    title: ""
+    imageUrl: /drawings/sima003.jpg
+    imageAlt: Art piece 3
+  - id: art-4
+    title: ""
+    imageUrl: /drawings/sima004.jpg
+    imageAlt: Art piece 4
+  - id: art-5
+    title: ""
+    imageUrl: /drawings/sima005.jpg
+    imageAlt: Art piece 5
+  - id: art-6
+    title: ""
+    imageUrl: /drawings/sima006.jpg
+    imageAlt: Art piece 6
+  - id: art-7
+    title: ""
+    imageUrl: /drawings/sima007.jpg
+    imageAlt: Art piece 7

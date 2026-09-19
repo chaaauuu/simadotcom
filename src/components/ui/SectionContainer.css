@@ -1,0 +1,30 @@
+.section-container {
+  padding: 2rem 0;
+}
+
+.section-container:last-child {
+  padding-bottom: 4rem;
+}
+
+.section-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  margin: 0 0 2rem 0;
+  color: #000000;
+  text-transform: capitalize;
+}
+
+@media (min-width: 768px) {
+  .section-container {
+    padding: 3rem 0;
+  }
+
+  .section-container:last-child {
+    padding-bottom: 4rem;
+  }
+
+  .section-title {
+    font-size: 0.875rem;
+  }
+}

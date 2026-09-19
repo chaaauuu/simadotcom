@@ -1,0 +1,47 @@
+/* Section title styles moved to SectionContainer.css */
+
+.education-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.education-item {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+.education-item-date {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: #000000;
+}
+
+.education-item-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.education-item-field {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: #000000;
+}
+
+.education-item-institution {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: #844140;
+}
+
+@media (min-width: 768px) {
+  .education-item {
+    grid-template-columns: 150px 1fr;
+    gap: 2rem;
+  }
+}

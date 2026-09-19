@@ -1,0 +1,21 @@
+.header {
+  margin-bottom: 4rem;
+}
+
+.header-name {
+  font-family: 'Newsreader', serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin: 0;
+  color: #000000;
+}
+
+@media (min-width: 768px) {
+  .header {
+    margin-bottom: 4.5rem;
+  }
+
+  .header-name {
+    font-size: 1.75rem;
+  }
+}

@@ -1,0 +1,10 @@
+/* Art practice-specific styles */
+/* Currently using shared .section-title from Experience.css */
+
+.section-description {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  margin: -1rem 0 8rem 0;
+  color: #000000;
+}
